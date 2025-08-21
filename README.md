@@ -19,12 +19,6 @@
   <!-- React Native (uses same logo as React, still relevant) -->
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" />
 
-  <!-- Expo -->
-  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" height="40" />
-
-  <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 
@@ -33,6 +27,12 @@
 
   <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+
+  <!-- Expo -->
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" height="40" />
+
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
